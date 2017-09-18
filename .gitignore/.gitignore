@@ -1,0 +1,13 @@
+target/
+.classpath
+.metadata
+.settings
+.project
+logs/
+hs_err_pid(.*)
+*.iml
+.DS_Store
+\.orig$
+\.idea
+syntax: glob
+syntax: regexp
